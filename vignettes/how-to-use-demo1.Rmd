@@ -1,0 +1,27 @@
+---
+title: "how-to-use-demo1"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{how-to-use-demo1}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(demo1)
+```
+
+Here's how to use the functions in this package:
+
+```{r}
+hello()
+goodbye()
+```
+
