@@ -1,0 +1,10 @@
+pandoc: 2.14.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  how-to-use-demo1: how-to-use-demo1.html
+last_built: 2022-09-08T17:01Z
+urls:
+  reference: https://d-morrison.github.io/demo1/reference
+  article: https://d-morrison.github.io/demo1/articles
+
